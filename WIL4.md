@@ -7,7 +7,7 @@
 ## 안드로이드 에뮬레이터 설정
 * 안드로이드 스튜디오 -> Virtual Device Manager -> Create Image -> 이미지 다운로드 후 가상기기 생성
 * 설치만 하면 VSCode에서도 인식됨
-* 근데 ADB연결만 되면 인식되서 WSA나 블루스택 등 기타 에뮬레이터를 써도 무방할 것 같다.
+* 근데 ADB연결만 되면 인식돼서 WSA나 블루스택 등 기타 에뮬레이터를 써도 무방할 것 같다.
 * 밑에 저거 만들때는 WSA랑 안드10롬 올린 S7 공기계로 테스트했다.
 
 ## [갑자기 뭐 하나 떠올라서 만든 앱](https://github.com/Ingan121/PaymentRedirector) 만들면서 알게된거
